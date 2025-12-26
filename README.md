@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/oguzhan18/seo-tools-api/main/assests/seo-tools-api-logo.png"> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/nexus-x6/seo-tools-api/main/assests/seo-tools-api-logo.png"> </h1>
 <h1 align="center"> <b> SEO Tools API </b></h1>
 
 `seo-tools-api` is a comprehensive collection of SEO tools designed to help webmasters, developers, and SEO professionals optimize websites for better search engine performance. Built using NestJS, this API provides various modules for analyzing and improving different aspects of a website's SEO.
@@ -39,8 +39,8 @@ To install and run the `seo-tools-api`, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/oguzhan18/seo-tools-api.git
-   cd seo-tools-api
+   git clone https://github.com/nexus-x6/SEO-Tools-API.git
+   cd SEO-Tools-API
     ```
 2. **Install the dependencies:**
     ```bash
